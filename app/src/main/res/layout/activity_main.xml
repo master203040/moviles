@@ -13,4 +13,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/logo" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_edior_absoluteX="181dp"
+        tools:layout_edior_absoluteY ="667dp"
+        tools:ignore="MissingConstraints"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"/>
+
 </RelativeLayout>
+
