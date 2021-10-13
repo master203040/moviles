@@ -21,4 +21,13 @@
         android:text="REGISTER SHOP"
         android:textColor="@color/geer"
         android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/editTextDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:layout_centerInParent="true"
+        android:inputType="date" />
+
 </RelativeLayout>
